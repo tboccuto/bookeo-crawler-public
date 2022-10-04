@@ -1,0 +1,7 @@
+numpy
+pandas
+PyQt5
+selenium
+webdriver_manager
+matplotlib
+scipy
