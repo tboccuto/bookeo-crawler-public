@@ -92,14 +92,6 @@ class Book:
     return df.to_csv('Yearly_comparison.csv', index=False)
       
 
-
-
-
-
-
-      #li_df = pd.read_html(self.driver.page_source)
-    #pd.concat(li_df).to_csv('file_name1.csv', index=False)
-
 """
 b = Book(1, 1)
 b.get_bookeo()
