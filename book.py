@@ -17,7 +17,6 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.common.exceptions import TimeoutException, WebDriverException, NoSuchElementException
 from selenium.webdriver.support.select import Select
 
-# here is the link for splitting ht estring https://docs.python.org/3.3/library/stdtypes.html?highlight=split
 class Book:
   def __init__(self, headless, chrome=False):
     opt = Options()
